@@ -92,9 +92,9 @@ h4 {
 
 .navbar .nav-logo a strong {
     color: #fff;
-    -webkit-background-clip: inherit;
+    background-clip: inherit;
     -webkit-text-fill-color: transparent;
-    -webkit-backdrop-filter: blur(55px);
+    backdrop-filter: blur(55px);
     -webkit-text-stroke: 0.2px #eee;
 }
 .navbar .nav-socials {
@@ -182,9 +182,9 @@ h4 {
     color: #0270ba;
     text-transform: uppercase;
     letter-spacing: 2px;
-    -webkit-background-clip: inherit;
+    background-clip: inherit;
     -webkit-text-fill-color: transparent;
-    -webkit-backdrop-filter: blur(55px);
+    backdrop-filter: blur(55px);
     -webkit-text-stroke: 0.2px #eee;
 }
 
